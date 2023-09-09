@@ -106,7 +106,7 @@ operation or not. If they entered invalid operation, the program repeats the pro
 	The program generates a grocery shopping list for the week that suits the meal plan. If the plan database 
 	is empty, the user is informed of their error and asked to make their weekly meal plan first. Else,
 	the user is first asked to supply a file to store their shopping list. Then, the program reads through the
-	plan database to figure out the needed servings of each ingredient of meals that make up the weekly plans, 
+	databases to figure out the needed servings of each ingredient of meals that make up the weekly plans, 
 	and the shopping list is stored in the following format:
 
 	eggs x12
