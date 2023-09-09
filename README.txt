@@ -91,12 +91,12 @@ operation or not. If they entered invalid operation, the program repeats the pro
 	Monday
 	Breakfast: {meal name}
 	Lunch: {meal name}
-	Dinner: [meal name}
+	Dinner: {meal name}
 
 	Tuesday
 	Breakfast: {meal name}
 	Lunch: {meal name}
-	Dinner: [meal name}
+	Dinner: {meal name}
 
 	...
 
